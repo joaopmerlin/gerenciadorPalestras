@@ -79,7 +79,7 @@ public class Agendador {
         if (match.group(3).equalsIgnoreCase("min")) {
             tipoTempo = TipoTempo.MINUTES;
         } else {
-            tipoTempo = TipoTempo.LIGHTENING;
+            tipoTempo = TipoTempo.LIGHTNING;
         }
 
         String nome = match.group(1);

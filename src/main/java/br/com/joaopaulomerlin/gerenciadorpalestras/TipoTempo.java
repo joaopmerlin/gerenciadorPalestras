@@ -8,7 +8,7 @@ import lombok.Getter;
 public enum TipoTempo {
 
     MINUTES(1, "min"),
-    LIGHTENING(5, "lightning");
+    LIGHTNING(5, "lightning");
 
     private Integer tempo;
     private String tipo;
