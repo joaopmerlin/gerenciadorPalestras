@@ -1,0 +1,2 @@
+# gerenciadorPalestras
+Gerenciador de Palestras
